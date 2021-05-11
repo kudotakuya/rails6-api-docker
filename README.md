@@ -1,9 +1,4 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
+# rails6 API Mode
 
 * Ruby version
 2.7.3
@@ -20,4 +15,4 @@ $ docker-compose build
 $ docker-compose up -d
 $ docker-compose exec web rails db:create
 ```
-Access http://localhost
+Access http://localhost:3000
